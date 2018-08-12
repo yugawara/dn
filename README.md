@@ -33,3 +33,7 @@ Projects in random order
 4. Mathematics and Computer Science education
     1. The language of computer programs can potentially help us understand mathematics better.
     2. Try using theorem provers, etc to help people learn math.
+5. Haskell-that-just-works
+    1. Create a cross-platform Haskell environment that works right out of the box.
+        1. Define what this means exactly
+        2. Implement it 
